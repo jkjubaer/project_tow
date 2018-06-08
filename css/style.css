@@ -1,0 +1,57 @@
+.container{
+    width: 1000px;
+    height: 1000px;
+    background: yellow;
+    margin-left:  auto;
+    margin-right:  auto;
+}
+.header{
+    width: 100%;
+    height:  100px;
+    background: blue;
+}
+.logo{
+    width: 30%;
+    height: 100px;
+    background:  red;
+    float: left;
+}
+.menu{
+    width: 70%;
+    height: 100px;
+    background: green;
+    float: left;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    background: rebeccapurple;
+}
+.main-content{
+    width: 100%;
+    height: 500px;
+    background:  beige;
+}
+.one{
+    width: 33.33%;
+    height: 500px;
+    background: red;
+    float: left;
+}
+.two{
+    width: 33.33%;
+    height: 500px;
+    background:  seagreen;
+    float: left;
+}
+.three{
+    width: 33.33%;
+    height: 500px;
+    background: darkred;
+    float: left;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background:  darkblue;
+}
